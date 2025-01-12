@@ -1,3 +1,8 @@
+#-------------------------------------------------
+# Author:      Suraj Joshi
+# Created:     21-08-2024
+# Copyright:   (c) Suraj Joshi 2024
+#--------------------------------------------------
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import os
